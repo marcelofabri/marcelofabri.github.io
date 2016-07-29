@@ -1,5 +1,5 @@
 # main text of home
-name: John Doe
+name: Marcelo Fabri
 bio: A Man who travels the world eating noodles
 
 # twitter summary info
@@ -26,21 +26,21 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: false
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: marcelofabri_
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+# youtube: myyoutube
+# spotify: myspotify
+github: marcelofabri
+# medium: medium
+# vimeo: myvimeo
+email: me@marcelofabri.com
 
 authors:
     johndoe:
@@ -66,11 +66,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: false
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -85,7 +85,7 @@ related: true
 blog-nav-links: false
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
