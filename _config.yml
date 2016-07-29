@@ -1,16 +1,16 @@
 # main text of home
 name: Marcelo Fabri
-bio: A Man who travels the world eating noodles
+bio: iOS Developer
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Marcelo Fabri personal site
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: http://www.gravatar.com/avatar/841a0284060fa6faa652e95a467dcc69?s=500
 
-url: http://koppl.in/indigo
+url: http://marcelofabri.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,27 +34,14 @@ twitter: marcelofabri_
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: marcelofabri
+stackoverflow: 1777634/marcelo-fabri
 # youtube: myyoutube
 # spotify: myspotify
 github: marcelofabri
 # medium: medium
 # vimeo: myvimeo
 email: me@marcelofabri.com
-
-authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
