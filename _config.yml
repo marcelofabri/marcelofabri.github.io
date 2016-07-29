@@ -3,7 +3,7 @@ name: Marcelo Fabri
 bio: iOS Developer
 
 # twitter summary info
-description: Marcelo Fabri personal site
+description: Marcelo Fabri's personal site
 
 # if it's an external image, update below for true
 # better with square images
@@ -19,7 +19,7 @@ markdown: kramdown
 highlighter: rouge
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-17117981-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
